@@ -1,6 +1,6 @@
 Copyright (C) 2020- mirage335
 See the end of the file for license conditions.
-See license.txt for projectName license conditions.
+See license.txt for wirewrap_huge license conditions.
 
 
 Wirewrap tool, 3D printer friendly and configurable to support large posts and wire diameters.
@@ -33,20 +33,20 @@ Soldering may carry some risks, particularly from lead (if not 'lead-free'), or 
 
 # Copyright
 
-This file is part of projectName.
+This file is part of wirewrap_huge.
 
-projectName is free software: you can redistribute it and/or modify
+wirewrap_huge is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
-projectName is distributed in the hope that it will be useful,
+wirewrap_huge is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with projectName.  If not, see <http://www.gnu.org/licenses/>.
+along with wirewrap_huge.  If not, see <http://www.gnu.org/licenses/>.
 
 
 
