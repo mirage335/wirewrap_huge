@@ -22,7 +22,7 @@ Professional wirewrap tools are designed to ensure a large amount of pressure be
 
 Some care will be needed to ensure adequately reliable and low-resistance connections.
 
-Soldering may carry some risks, particularly from lead (if not 'lead-free'), or various flux compounds. For wire splicing with heat shrink to mitigate tin wiskers, it is possible, but unproven, that lead-free solder may be adequate.
+Soldering may carry some risks, particularly from lead (if not 'lead-free'), or various flux compounds. Lead-free may bring the risks of tin pest and tin whiskers.
 
 
 # Reference
